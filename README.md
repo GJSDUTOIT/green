@@ -1,5 +1,5 @@
 [![Build
-Status](https://travis-ci.org/GJSDUTOIT/green.svg?branch=master)](https://travis-ci.org/GJSDUTOIT/green.svg?branch=master)
+Status](https://travis-ci.org/GJSDUTOIT/green.svg?branch=master)](https://travis-ci.org/GJSDUTOIT/green)
 
 Notes:
 
